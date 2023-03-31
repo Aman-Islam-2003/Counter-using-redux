@@ -1,0 +1,22 @@
+.container{
+  display: flex;
+  align-items: center;
+  height: 50vh;
+  justify-content:space-around;
+  background-color: rgb(232, 226, 219);
+  width: 50%;
+  margin: auto;
+  margin-top: 150px;
+}
+.btn{
+  height: 30px;
+  color: white;
+  border-radius: 4px;
+
+}
+.inc{
+  background-color: green;
+}
+.dec{
+  background-color: red;
+}
